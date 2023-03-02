@@ -3,3 +3,6 @@ function myOnClickFunction() {
     myElement.innerText = 'changed';
     myElement.style.backgroundColor = 'blue';
 }
+function logInUser() {
+    alert("Logged in!");
+}
